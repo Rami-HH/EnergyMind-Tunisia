@@ -1,0 +1,15 @@
+# Data folders (full raw dataset is linked via Zenodo in data/download.md)
+data_csv/
+data_parquet/
+newdata_csv/
+*.zip
+
+# Python & Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Temporary artifacts
+results/*.tmp

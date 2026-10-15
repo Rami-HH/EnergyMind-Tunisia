@@ -1,0 +1,21 @@
+{
+  "precision": 0.587,
+  "recall": 0.48,
+  "false_positive_rate": 0.0135,
+  "genuine_vs_dq_accuracy": 1.0,
+  "latency_ms_per_row": 0.0091,
+  "recall_by_type": {
+    "bias": 0.03,
+    "ct_ratio": 0.09,
+    "drift": 1.0,
+    "falsified": 1.0,
+    "gap": 1.0,
+    "phase_bias": 0.0,
+    "shutdown": 0.0,
+    "stuck": 0.0,
+    "surge": 0.0
+  },
+  "flagged_windows": 2166,
+  "auto_actions": 196,
+  "human_reviews": 1970
+}
