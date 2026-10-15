@@ -1,4 +1,0 @@
-﻿asset_id,issue_type,issue_detail,asset_stream_start,asset_stream_end,issue_start,issue_end,issue_persisted_to_stream_end
-ahu_a,tag_misconfiguration,L3 power tag misconfiguration; had been correctly set originally but may have been overwritten during dashboard development updates.,01/01/2025 00:00,31/12/2025 23:59,10/03/2025 09:22,06/01/2026 00:00,TRUE
-mix_b,tag_misconfiguration,L3 power tag misconfiguration; had been correctly set originally but may have been overwritten during dashboard development updates.,01/01/2025 00:00,31/12/2025 23:59,10/03/2025 09:15,06/01/2026 00:00,TRUE
-u_d,reversed_ct_polarity,L1 Reverse CT Polarity,01/01/2025 00:00,31/12/2025 23:59,01/01/2025 00:00,08/12/2025 08:40,FALSE
