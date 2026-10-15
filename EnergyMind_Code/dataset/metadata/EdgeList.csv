@@ -1,0 +1,11 @@
+﻿Source,Target,RelationshipNote
+mi_a,sb_c,grid_supply_to_distribution
+sb_c,sb_b,solar_distribution_to_subboard
+sb_b,ahu_a,subboard_distribution_to_load
+sb_b,mh_a,subboard_distribution_to_load
+sb_b,mix_a,subboard_distribution_to_load
+sb_b,mix_b,subboard_distribution_to_load
+sb_b,mix_c,subboard_distribution_to_load
+sb_b,mix_d,subboard_distribution_to_load
+sb_b,u_d,subboard_distribution_to_load
+sb_b,u_e,subboard_distribution_to_load

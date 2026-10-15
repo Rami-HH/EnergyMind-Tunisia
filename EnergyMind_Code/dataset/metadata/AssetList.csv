@@ -1,0 +1,12 @@
+﻿asset_id,asset_type,em_manufacturer,em_model,em_communication_protocol,em_acquisition_pathway,stream_start_utc,stream_end_utc,is_submeter
+ahu_a,HVAC_AHU,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+u_d,Utilities,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+u_e,Utilities,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+mix_a,ProcessMixing,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+mix_b,ProcessMixing,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+mix_c,ProcessMixing,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+mix_d,ProcessMixing,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+mh_a,Automation_Handling,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,01/01/2025 00:00,31/12/2025 23:59,TRUE
+sb_b,Electrical_Distribution,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,23/05/2025 06:43,31/12/2025 23:59,TRUE
+sb_c,Electrical_Distribution,Rayleigh,RI-F200,modbus_rtu,gateway_modbus_rtu_to_plc,30/04/2025 07:14,31/12/2025 23:59,TRUE
+mi_a,Electrical_GridImport,Weidmüller,EM220,modbus_tcp_ip,direct_modbus_tcp,22/05/2025 13:54,31/12/2025 23:59,FALSE
